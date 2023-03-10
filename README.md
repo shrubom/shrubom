@@ -7,7 +7,9 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 💬 Ask me about **Selenium, Cypress, Playwright**
+- 💬 Ask me about automating application using automation techniques **Selenium, Cypress, Playwright**
+
+- Experience in **Banking, Insurance, FinTech, iGaming**
 
 <br/>
 <br/>
