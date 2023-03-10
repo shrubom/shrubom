@@ -2,11 +2,15 @@
 <h3 align="center">A passionate automation test engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrubom&label=Profile%20views&color=0e75b6&style=flat" alt="shrubom" /> </p>
+<br/>
+<br/>
 
 - 🌱 I’m currently learning **Typescript**
 
 - 💬 Ask me about **Selenium, Cypress, Playwright**
 
+<br/>
+<br/>
 
 <p align="left">
 </p>
